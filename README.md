@@ -31,13 +31,6 @@ Si quieres conversar sobre un proyecto o una idea, puedes escribirme sin problem
   <img src="https://skillicons.dev/icons?i=python,django,html,css,js,postgresql,git,github,linux,nginx,mysql,postman" />
 </p>
 
-## Estadísticas de GitHub 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeHuencho&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHuencho&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
-
 ## Proyectos destacados
 
 ### Intranet Web – Proyecto Académico / Aplicación Web
