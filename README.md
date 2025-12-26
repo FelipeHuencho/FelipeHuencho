@@ -1,8 +1,9 @@
-# Bienvendi@ a mi perfil.
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:contato.weltonf@gmail.com)
+# Bienvenid@ a mi perfil
+
+[![Portfolio](https://img.shields.io/badge/-Portafolio-red?style=flat&logo=appveyor&logoColor=white)](https://portal.hipona.cl/inicioSesion/login/?next=/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/FelipeHuencho)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-huencho-48ab20370/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:fe.huencho@gmail.com)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 
@@ -24,11 +25,17 @@ Trabajo con código limpio, buenas prácticas y comunicación directa con el cli
 Si quieres conversar sobre un proyecto o una idea, puedes escribirme sin problema.
 </p>
 
-
 ## Mi stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,postgresql,git,github,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,postgresql,git,github,linux,nginx,mysql,postman" />
+</p>
+
+## Estadísticas de GitHub 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeHuencho&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHuencho&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 ## Proyectos destacados
@@ -52,8 +59,6 @@ Desarrollo de una **intranet web** orientada a la gestión interna, enfocada en 
 
 Repositorio:  
 https://github.com/Date2099/capstone_803D_Equipo3_KevinCartagen_WillyCastro_FelipeHuencho
-
-
 
 
 
